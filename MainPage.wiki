@@ -1,0 +1,16 @@
+#summary First page of the wiki
+#labels Featured
+
+= ZLovesPancakes's Minetest Mods =
+
+The purpose of this proyect is to store my mods for Minetest.
+
+I have just a few things here, but I expect the list to grow.
+
+== Mods ==
+
+  * Gemstones
+
+== Texture Packs ==
+
+  * Tilish
