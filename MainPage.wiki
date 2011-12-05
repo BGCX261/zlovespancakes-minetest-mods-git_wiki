@@ -1,5 +1,4 @@
 #summary First page of the wiki
-#labels Featured
 
 = ZLovesPancakes's Minetest Mods =
 
