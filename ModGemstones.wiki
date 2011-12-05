@@ -1,0 +1,17 @@
+#summary Gemstones mod page
+
+= Gemstones! =
+
+This mod adds gemstones to the world, which can be mined and crafted into tools and blocks.
+
+It currently includes rubies, emeralds and sapphires, but I'm planning to add more gems in a near future.
+
+The recipes for tools are the same as the normal ones (replacing iron, stone, etc. by gemstones), and a block is made of 9 gems.
+
+== Download ==
+
+Download it here.
+
+== Screenshots ==
+
+[https://picasaweb.google.com/lh/photo/-Hrh40ToAw_Gz7X-QK5Cd9MTjNZETYmyPJy0liipFm0?feat=directlink https://lh6.googleusercontent.com/-LEPBrj9G1KA/Ttw5V6QiuPI/AAAAAAAAACk/VNIdW5XWjgM/s288/minetest-gemstones.png]
