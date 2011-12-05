@@ -8,8 +8,8 @@ I have just a few things here, but I expect the list to grow.
 
 == Mods ==
 
-  * Gemstones
+  * [ModGemstones Gemstones]
 
 == Texture Packs ==
 
-  * Tilish
+  * [TexTilish Tilish]
