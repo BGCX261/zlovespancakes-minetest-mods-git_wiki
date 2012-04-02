@@ -1,0 +1,11 @@
+#summary Doors mod page
+
+= Doors =
+
+This mod makes doors as craftable items, which can be made of six wooden planks.
+
+The doors open by punching them, so it can be a little ankward to mine them.
+
+== Download ==
+
+This mod is now included in the vainilla Minetest, so it doesn't require a separate download anymore.
