@@ -12,4 +12,4 @@ This mod is now included in the vainilla Minetest, so it doesn't require a separ
 
 == Screenshots ==
 
-[https://picasaweb.google.com/110987136118962153052/Minetest#5743646879596641586 https://lh4.googleusercontent.com/-_aNi75pXT3c/T7WIZ-WjfTI/AAAAAAAAAKg/iimfK7Rotpk/s144/screenshot_1562087572.png] [https://picasaweb.google.com/110987136118962153052/Minetest#5743646946481863826 https://lh3.googleusercontent.com/-xHvIfeKV3bY/T7WId3hO_JI/AAAAAAAAAKo/_4Z3PxZQR_o/s144/screenshot_1562092182.png]
+[https://picasaweb.google.com/110987136118962153052/Minetest#5743646879596641586 https://lh4.googleusercontent.com/-_aNi75pXT3c/T7WIZ-WjfTI/AAAAAAAAAKg/iimfK7Rotpk/s288/screenshot_1562087572.png] [https://picasaweb.google.com/110987136118962153052/Minetest#5743646946481863826 https://lh3.googleusercontent.com/-xHvIfeKV3bY/T7WId3hO_JI/AAAAAAAAAKo/_4Z3PxZQR_o/s288/screenshot_1562092182.png]
