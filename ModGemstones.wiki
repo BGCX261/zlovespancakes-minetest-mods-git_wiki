@@ -10,7 +10,7 @@ The recipes for tools are the same as the normal ones (replacing iron, stone, et
 
 == Download ==
 
-Download it [/p/zlovespancakes-minetest-mods/downloads/detail?name=gemstones_1.5.0.zip here].
+Download it [https://code.google.com/p/zlovespancakes-minetest-mods/downloads/detail?name=gemstones_1.5.0.zip here].
 
 == Screenshots ==
 
